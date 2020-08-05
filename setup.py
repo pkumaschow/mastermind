@@ -40,7 +40,7 @@ setup(
     packages=find_packages(),
     install_requires=['mitmproxy==0.17',
                       'Flask<0.11,>=0.10.1',
-                      'pyYAML==3.11',
+                      'pyYAML==5.1',
                       'jsonschema==2.5',
                       'coloredlogs==5.0',
                       'pytoml==0.1',
