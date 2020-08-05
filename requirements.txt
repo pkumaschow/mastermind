@@ -4,7 +4,7 @@ flake8
 coloredlogs==5.0
 hypothesis==3.4
 jsonschema==2.5
-mitmproxy==0.17
+mitmproxy==4.0.4
 pyYAML==3.11
 pytest==2.9.2
 pytoml==0.1
